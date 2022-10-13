@@ -1,5 +1,5 @@
 # Joke Teller JS Application 
- Infinite scrolling mechanism like all the social media sites Intagram, Twitter, Facebook etc.<br>
+Application is about text to voice API is converted into Audio.<br>
 View in [Github Pages](https://pradytpk.github.io/joke-teller/)
 
 <img src="img/image-1.png" alt="joke">
